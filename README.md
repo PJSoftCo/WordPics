@@ -1,18 +1,20 @@
+[**IOS**](https://apps.apple.com/app/) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.wordpics)
+
 Privacy Policy of Words Pics
 
 Privacy Policy Effective date: June 28, 2024
 
 Words Pics ("us", "we", or "our") operates the Words Pics mobile application (the "Service").
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+This page informs you of our policies regarding collecting, using, and disclosing personal data when you use our Service and the choices you have associated with that data.
 
 We do not collect any information from the App for any purpose. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 Changes To This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. We will let you know of any changes by posting the new Privacy Policy on this page.
 
-We will inform you via email and/or a prominent notice on our Service, before the change becomes effective, and update the "effective date" at the top of this Privacy Policy.
+We will inform you via email and a prominent notice on our Service, before the change becomes effective, and update the "effective date" at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when posted on this page.
 
