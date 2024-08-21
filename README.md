@@ -1,4 +1,4 @@
-[**IOS**](https://apps.apple.com/app/) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.wordpics)
+[**IOS**](https://apps.apple.com/us/app/words-pics/id6648797284) - [**Android**](https://play.google.com/store/apps/details?id=com.PJSoftCo.wordpics)
 
 Privacy Policy of Words Pics
 
